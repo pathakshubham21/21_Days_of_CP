@@ -5,7 +5,7 @@ A number is said to be twisted prime if it is a prime number and reverse of the 
 Input:
 The first line of input contains an integer T denoting the number of test cases. 
 The first and last line of each test case consists of an integer n.  
-
+temp
 Output:
 
 Print the answer in "Yes" or "No".
